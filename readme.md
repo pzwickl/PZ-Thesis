@@ -56,3 +56,9 @@ O. Dobrijevic, A. J. Kassler, L. Skorin-Kapov and M. Matijasevic. “Q-POINT: Qo
 Services”. In: Proceedings of the 12th International Conference on Wired & Wireless Internet Communications (WWIC’14). LNCS. Springer, 2014.
 
 that is supposed to appear soon.
+
+3. Trial
+
+This part contains trail data and analysis script that can be shared without violating any IPRs. Currently, a study on network video quality willingness-to-pay is included.
+
+Any data is exported from the original database as CSV. A considerate anonymisation process has been applied.  
