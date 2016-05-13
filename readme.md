@@ -45,14 +45,18 @@ ed. by C. Linnhoff-Popien, M. Zaddach and A. Grahl. Springer, 2015. Chap. Of Val
 
   Utility approximation from network video QoE as described in **Zwickl, P., Reichl, P., Skorin-Kapov, L., Dobrijevic, O., & Sackl, A. (2015). On the Approximation of ISP and User Utilities from Quality of Experience. Proc. QoMEX**.
 
-and extended for a subsequent work, aligned to
+  and extended for a subsequent work, aligned to
 
   **O. Dobrijevic, A. J. Kassler, L. Skorin-Kapov and M. Matijasevic. “Q-POINT: QoE-Driven Path Optimization Model for Multimedia Services”. In: Proceedings of the 12th International Conference on Wired & Wireless Internet Communications (WWIC’14). LNCS. Springer, 2014.**
 
-that is supposed to appear soon.
+  that is supposed to appear soon.
 
 3. Trial
 
-This part contains trail data and analysis script that can be shared without violating any IPRs. Currently, a study on network video quality willingness-to-pay is included.
+  This part contains trail data and analysis script that can be shared without violating any IPRs. Currently, a study on network video quality willingness-to-pay is included.
 
-Any data is exported from the original database as CSV. A considerate anonymisation process has been applied.  
+  Any data is exported from the original database as CSV. A considerate anonymisation process has been applied.  
+  
+4. Dissertation
+
+  This part contains the written thesis (= dissertation) in LaTeX and PDF representation in order to provide transparency also on this level.
